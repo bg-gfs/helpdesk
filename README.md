@@ -8,4 +8,4 @@ Resource  | Description
 https://docs.gitoqlik.com  | Official documentation
 [YouTube channel](https://www.youtube.com/channel/UCAxNlzMkKdjc46_Ab4oivFA)  | YouTube channel with live demos, tips and tricks 
 [Blog on Medium](https://medium.com/@alexpolorotov) | Blog about Git and Qlik Sense integration and how to boost development process in the Qlik Ecosystem
-[Slack](https://join.slack.com/t/gitoqlik/shared_invite/zt-ezsx8rht-KCz~eWgLxyVTsB0QmS9Gag) | Community
+[Slack](https://join.slack.com/t/gitoqlik/shared_invite/zt-ezsx8rht-KCz~eWgLxyVTsB0QmS9Gag) | Slack Community
